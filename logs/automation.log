@@ -1,0 +1,163 @@
+2025-11-15 18:49:08 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 18:49:09 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 18:49:10 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 18:49:10 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 18:49:12 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-11-15 18:49:12 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-11-15 18:49:12 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 18:49:16 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 19:11:03 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 19:11:03 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 19:11:04 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 19:11:04 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 19:11:04 INFO  TC001_AccountRegistrationTest:34 - Email: GyRiv
+2025-11-15 19:11:05 INFO  TC001_AccountRegistrationTest:40 - Password: fkh@083
+2025-11-15 19:11:06 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 19:11:06 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 19:11:06 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 19:11:11 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 19:14:43 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 19:14:44 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 19:14:45 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 19:14:45 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 19:14:46 INFO  TC001_AccountRegistrationTest:34 - Email: PMtOh@gmail.com
+2025-11-15 19:14:46 INFO  TC001_AccountRegistrationTest:40 - Password: KbN@258
+2025-11-15 19:14:47 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 19:14:47 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 19:14:47 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 19:14:53 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 19:18:58 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 19:18:58 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 19:18:59 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 19:18:59 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 19:20:41 INFO  TC001_AccountRegistrationTest:34 - Email: qmNcc@gmail.com
+2025-11-15 19:20:53 INFO  TC001_AccountRegistrationTest:40 - Password: iEo@931
+2025-11-15 19:21:12 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 19:21:21 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 19:21:26 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 19:22:58 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 19:23:27 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 19:23:27 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 19:23:28 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 19:23:28 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 19:23:55 INFO  TC001_AccountRegistrationTest:34 - Email: PHAbf@gmail.com
+2025-11-15 19:24:01 INFO  TC001_AccountRegistrationTest:40 - Password: qSU@155
+2025-11-15 19:24:14 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 19:24:20 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 19:24:40 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 19:25:31 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 19:26:55 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 19:26:56 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 19:26:56 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 19:26:56 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 19:26:57 INFO  TC001_AccountRegistrationTest:34 - Email: zlJon@gmail.com
+2025-11-15 19:26:57 INFO  TC001_AccountRegistrationTest:40 - Password: Qzw@607
+2025-11-15 19:26:58 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 19:26:58 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 19:26:58 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 19:27:02 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 19:41:54 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 19:41:54 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 19:41:55 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 19:41:55 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 19:41:56 INFO  TC001_AccountRegistrationTest:34 - Email: JnttQ@gmail.com
+2025-11-15 19:41:56 INFO  TC001_AccountRegistrationTest:40 - Password: mtZ@549
+2025-11-15 19:41:57 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 19:41:57 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 19:41:57 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 19:42:04 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 19:42:58 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 19:43:00 INFO  TC002_LoginTest:43 - ****** Finished TC_002_LoginTest *****
+2025-11-15 19:44:21 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 19:44:23 INFO  TC002_LoginTest:43 - ****** Finished TC_002_LoginTest *****
+2025-11-15 19:47:14 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 19:47:14 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 19:47:14 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 19:47:14 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 19:47:15 INFO  TC001_AccountRegistrationTest:34 - Email: iMqYF@gmail.com
+2025-11-15 19:47:15 INFO  TC001_AccountRegistrationTest:40 - Password: qAs@714
+2025-11-15 19:47:16 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 19:47:16 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 19:47:16 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 19:47:20 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 19:47:22 INFO  TC002_LoginTest:43 - ****** Finished TC_002_LoginTest *****
+2025-11-15 20:38:56 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 20:38:57 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 20:38:58 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 20:38:58 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 20:38:58 INFO  TC001_AccountRegistrationTest:34 - Email: PMdJO@gmail.com
+2025-11-15 20:38:58 INFO  TC001_AccountRegistrationTest:40 - Password: JNT@782
+2025-11-15 20:39:01 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 20:39:01 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 20:39:01 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 20:39:15 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 20:39:17 INFO  TC002_LoginTest:43 - ****** Finished TC_002_LoginTest *****
+2025-11-15 20:45:52 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 20:45:52 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 20:45:56 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 20:45:56 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 20:45:57 INFO  TC001_AccountRegistrationTest:34 - Email: pOWgt@gmail.com
+2025-11-15 20:45:57 INFO  TC001_AccountRegistrationTest:40 - Password: mnK@551
+2025-11-15 20:45:59 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 20:45:59 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 20:45:59 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 20:47:41 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 20:47:42 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 20:47:44 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 20:47:44 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 20:47:44 INFO  TC001_AccountRegistrationTest:34 - Email: gcTgK@gmail.com
+2025-11-15 20:47:45 INFO  TC001_AccountRegistrationTest:40 - Password: swp@245
+2025-11-15 20:47:47 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 20:47:47 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 20:47:47 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 20:52:37 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 20:52:37 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 20:52:38 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 20:52:38 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 20:52:39 INFO  TC001_AccountRegistrationTest:34 - Email: huoLP@gmail.com
+2025-11-15 20:52:39 INFO  TC001_AccountRegistrationTest:40 - Password: CsZ@885
+2025-11-15 20:52:41 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 20:52:41 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 20:52:41 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 21:09:22 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 21:09:23 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 21:09:24 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 21:09:24 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 21:09:24 INFO  TC001_AccountRegistrationTest:34 - Email: DCmty@gmail.com
+2025-11-15 21:09:24 INFO  TC001_AccountRegistrationTest:40 - Password: DcC@660
+2025-11-15 21:09:26 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 21:09:26 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 21:09:26 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 21:09:29 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 21:09:32 INFO  TC002_LoginTest:43 - ****** Finished TC_002_LoginTest *****
+2025-11-15 23:18:49 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 23:18:50 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 23:18:51 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 23:18:51 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 23:18:51 INFO  TC001_AccountRegistrationTest:34 - Email: gKUDE@gmail.com
+2025-11-15 23:18:52 INFO  TC001_AccountRegistrationTest:40 - Password: Ogl@064
+2025-11-15 23:18:53 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 23:18:53 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 23:18:53 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 23:19:00 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 23:19:01 INFO  TC002_LoginTest:43 - ****** Finished TC_002_LoginTest *****
+2025-11-15 23:21:17 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 23:21:18 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 23:21:19 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 23:21:19 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 23:21:19 INFO  TC001_AccountRegistrationTest:34 - Email: wuUUo@gmail.com
+2025-11-15 23:21:19 INFO  TC001_AccountRegistrationTest:40 - Password: htO@102
+2025-11-15 23:21:21 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 23:21:21 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 23:21:21 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 23:28:45 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-15 23:28:46 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-15 23:28:47 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-15 23:28:47 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-15 23:28:47 INFO  TC001_AccountRegistrationTest:34 - Email: GRoOR@gmail.com
+2025-11-15 23:28:47 INFO  TC001_AccountRegistrationTest:40 - Password: ygs@304
+2025-11-15 23:28:48 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-11-15 23:28:49 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-11-15 23:28:49 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-15 23:28:52 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-15 23:28:54 INFO  TC002_LoginTest:43 - ****** Finished TC_002_LoginTest *****
